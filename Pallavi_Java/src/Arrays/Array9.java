@@ -15,6 +15,7 @@ public class Array9 {
 // 2    4 7 2
 // 3    7 4 6
 
+		System.out.println("*********NEW CHANGES**********");
 		
 		System.out.println(number.length);
 		System.out.println(number[0].length);
